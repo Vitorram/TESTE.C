@@ -16,6 +16,6 @@ int main(int argc, char const *argv[])
 	printf ("%d * 8 = %d\n", num, num * 8);
 	printf ("%d * 9 = %d\n", num, num * 9);
 	printf ("%d * 10 = %d\n", num, num * 10);
-
+ // CORINTHIANS 
     return 0;
 }
